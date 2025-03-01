@@ -2,14 +2,14 @@
 
 Projeto Django com PostgreSQL.
 
-## 📌 Pré-requisitos
+## Pré-requisitos
 - Python 3.8+
 - PostgreSQL 16
 - Git
 
 ---
 
-## 🐘 Instalação do PostgreSQL
+## Instalação do PostgreSQL
 
 ### Windows
 1. Baixe o instalador em [postgresql.org/download/windows](https://www.postgresql.org/download/windows/)
@@ -26,7 +26,7 @@ sudo systemctl enable postgresql
 
 ---
 
-## 🛠️ Configurar Banco de Dados
+## Configurar Banco de Dados
 
 ```bash
 sudo -u postgres psql
@@ -56,7 +56,7 @@ DATABASES = {
 
 ---
 
-## 🚀 Instalação do Projeto
+## Instalação do Projeto
 
 ```bash
 # Clonar repositório
