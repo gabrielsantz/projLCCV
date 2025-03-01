@@ -1,6 +1,9 @@
 from django.contrib import admin
 from .models import Colaboradores, Financiador, AreasTecnologicas, Projetos
 
+
+
+
 @admin.register(Colaboradores)
 class ColaboradoresAdmin(admin.ModelAdmin):
     list_display = ('id_colaborador', 'nome', 'cpf', 'dt_nascimento')
