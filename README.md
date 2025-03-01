@@ -1,4 +1,4 @@
-# LCCV - Prova Back-End 🔧
+# LCCV - Prova Back-End 
 
 Projeto Django com PostgreSQL.
 
