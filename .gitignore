@@ -1,2 +1,4 @@
 django/venv/
 pdf/
+*.sql
+*.csv
